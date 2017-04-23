@@ -1,0 +1,6752 @@
+
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "040D5CF2304C81"
+  ["tagPassword"]=>
+  string(8) "AA8FDD19"
+  ["authenticationKey"]=>
+  string(64) "5A9DA82C4A250BE96EDBFAC1319ACE092100904331FB1FEA9C5BF3700BCDCD82"
+  ["wineID"]=>
+  int(3)
+  ["rollNumber"]=>
+  int(1)
+  ["operatorID"]=>
+  string(1) "j"
+}
+Tag 040D5CF2304C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04E358F2304C80"
+  ["tagPassword"]=>
+  string(8) "F7DCC112"
+  ["authenticationKey"]=>
+  string(64) "DF6B1BA738E32582DC48E5DE7C73F7A8BA2AC4CD159EE268EE1E13C8064252FF"
+  ["wineID"]=>
+  int(3)
+  ["rollNumber"]=>
+  int(1)
+  ["operatorID"]=>
+  string(1) "j"
+}
+Tag 04E358F2304C80 is uploaded successfully!
+
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04D0D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DED169A3"
+  ["authenticationKey"]=>
+  string(64) "342F8F9B91928F159C9A546CEBD325326F26EA7CA1A1A8AEB75AC4E0EA293B5E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04D0D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04D9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "25415FA3"
+  ["authenticationKey"]=>
+  string(64) "B8AF2A3224012D278AC466D7798ADE955EB09A14828C3F2562D1C569732CA86B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D9D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04D9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E187C159"
+  ["authenticationKey"]=>
+  string(64) "7B463A0B24F54A2FA7A850ECC9308097D26943C835C3CBE93F4E572602532820"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04D9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "04D9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5C96DBCF"
+  ["authenticationKey"]=>
+  string(64) "F57C97A55B2AF3D7970A4DA02D9D9941317AD9D0FC24DF95AB184E2115E5F56F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04D9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04D9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "14AB9F36"
+  ["authenticationKey"]=>
+  string(64) "E08C395FE90513F21C05D9513825EFF4BC4ABC57728A9D8F008A40B81929D818"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04D9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04D9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "639D3529"
+  ["authenticationKey"]=>
+  string(64) "50D02651080FBDEC681716FD3A353E3026EB253FD79C1F50CCDEFFCCB3CD469A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04D9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04DED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2C66FCF0"
+  ["authenticationKey"]=>
+  string(64) "462F795333195C101932E5A83B33FD074F428797666996E1BB13DFC2D0511046"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04DED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "04E3D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F6069D9A"
+  ["authenticationKey"]=>
+  string(64) "DABDA496F4B6843FEB8F1A9823F2DD9072AF8536C50C4D0360892FD683FB1ECD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(6) "fuming"
+}
+Tag 04E3D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04E9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9ED8707F"
+  ["authenticationKey"]=>
+  string(64) "9474883C33ACB39D494C34F3C4D0F9742E0AB01EC07BBDFBB2501309F66F463A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E9D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04E9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1EA43C30"
+  ["authenticationKey"]=>
+  string(64) "2F0D92681CD8A95A5B4EC0A925C87D460AE800B516DDBED4CC7B8FEE2DFA8630"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04E9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "90270096"
+  ["authenticationKey"]=>
+  string(64) "CCB327663428ECD17B3A7A2806E468808B517C822A3FD7678653B04EB5879565"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E9D1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04F3D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "90CA6255"
+  ["authenticationKey"]=>
+  string(64) "162A20FE63DB8EB07858456876EABF98DC2F9B3E3801CDF9C86CBAEB9F90679F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F3D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04F8D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C9718017"
+  ["authenticationKey"]=>
+  string(64) "1AB679C62E73BB5FEFF6BCB8CE61EC254C62E442419888C0EA77D7727493CD70"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F8D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04FCD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1AB08920"
+  ["authenticationKey"]=>
+  string(64) "5225FF4CCA076F43597BF8506E9A0229FE0B52488153B17290D0C0426EFEA25E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04FCD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0403D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "851D10A7"
+  ["authenticationKey"]=>
+  string(64) "9325DAE92AA77715094ABCC9CA4A847FA09932E5673EE0CCD90628FEBC35F6DF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0403D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "043FD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "364437CE"
+  ["authenticationKey"]=>
+  string(64) "505C0FA4F7458126E1D440F6AD8EF04D19D443E50A56E1F0B6199255C87D1790"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 043FD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0444D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "F934CB9D"
+  ["authenticationKey"]=>
+  string(64) "AB5AD529BF9BCC6CD975A62AE5306695662B155425E8A57CEB6A04D10107442D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0444D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0449D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E6DA72AC"
+  ["authenticationKey"]=>
+  string(64) "2A46ACB0E58A6C40B6E303BB8568A20ED942A19FD0072FD1BDAEFF37D7F52EE2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0449D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0458D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7CB61CB3"
+  ["authenticationKey"]=>
+  string(64) "22D7FD71145E9C7219F91E05D71E412C3C266BC3A164FF9381DEC45B6E3AEC60"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0458D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "045DD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "786C033E"
+  ["authenticationKey"]=>
+  string(64) "9FE80A0C011E9B26360F2A84CB801EC0550F8621B7D1B41468DC8FC0C976C463"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045DD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0460D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "27BDCD64"
+  ["authenticationKey"]=>
+  string(64) "08DD8FC003B00CF19656B48BAF8AF7BA56F0F2E5ECC28BF6D08F07BB9C699476"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0460D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0460D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "F58DC75E"
+  ["authenticationKey"]=>
+  string(64) "28E849B33E0914CF285FFA5463E9266E5EEF829F200C55C3AE6B57D69F8DFEF9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0460D3B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0468D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E21DB3A7"
+  ["authenticationKey"]=>
+  string(64) "3C48574C0D1E32B70C68B463AFC8E0B6C98F93795953953CE3C1599C28A20EAA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0468D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0460D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "29C0B44B"
+  ["authenticationKey"]=>
+  string(64) "0C154A52136972A54D52DAC35FBE498180DE155F83D377DB9D9B99965D8C624D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0460D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "045CD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4476B048"
+  ["authenticationKey"]=>
+  string(64) "3A56079DDE93A79896D0922E10A6014169D4102E02C816B5954CA827424DC0BF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045CD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0457D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "104AE1D5"
+  ["authenticationKey"]=>
+  string(64) "CC72417216BEEDE5545111C8B11821296FADB3498E58036DB4CDAADE35DA623A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0457D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0452D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "CD659F02"
+  ["authenticationKey"]=>
+  string(64) "6CA93458321EA5E5AF2AC8DB8605278155FDF7CE7BF01764A23D02D78D6CBDE7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0452D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0448D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "F5E880BA"
+  ["authenticationKey"]=>
+  string(64) "F5C240C2266E95B7C1C7BFFAF5A4D71A5707B309C80CF8324466DAD2F3B63D5C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0448D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0439D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9EA98119"
+  ["authenticationKey"]=>
+  string(64) "3B704BB16DAC865DF073E59E1073835C3C115CED393114091A5E0830CD7D4CE2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0439D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0434D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "F908FA92"
+  ["authenticationKey"]=>
+  string(64) "C43A6E6ED34BE2C0464D0FC6267240BAFF3767A79015B3B54E9F1D003A237D60"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0434D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "042DD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "629C346E"
+  ["authenticationKey"]=>
+  string(64) "D8C6139BEE0372E6D4AEC9A003174C3F0EDC8C47CEBD1270B0220CBDD0A0B237"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042DD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0428D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "30C6BA52"
+  ["authenticationKey"]=>
+  string(64) "D9B33AA80045EDE6971C2457700C207F384C8DE727C6E8FCF402EB661730B2F8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0428D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0428D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1651E7D0"
+  ["authenticationKey"]=>
+  string(64) "19FD4980D3A5EC8E32B05AA84E3877EEAB93D082D2E618BC7B53061E30D198E5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0428D3B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0422D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "65750CF6"
+  ["authenticationKey"]=>
+  string(64) "8E9962D16899C2EB99D4092CAC72236840874FE6131F4EEFD31703F743D0CD62"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0422D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "041DD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "D7CB629D"
+  ["authenticationKey"]=>
+  string(64) "4A5B7A76CBA06BE303C6A317943B65DC312F6D972E777730A41E6A9283CB2FB9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041DD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0419D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "96A53C77"
+  ["authenticationKey"]=>
+  string(64) "332654B70C7294D6F422E2F780E73219D46D154137564C157FBAB2ACD774598F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0419D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0414D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E2EC8477"
+  ["authenticationKey"]=>
+  string(64) "33E9DC44A591507D774552F627995A28A4AA76479F22CDC06EB980B6652BFE7D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0414D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "040FD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A139730B"
+  ["authenticationKey"]=>
+  string(64) "DBA425062AE4576C73C5A235040346C7A447D20255B963C75F288277ADFE4A1B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040FD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "040AD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "BF982F6A"
+  ["authenticationKey"]=>
+  string(64) "A5968968CBBF68DE629F77DB99215C436078F0286453D397FD5F0E9BEFFF014D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040AD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0405D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A4E6DA72"
+  ["authenticationKey"]=>
+  string(64) "E7E6CA6E4825E3E75A08EF1D4E817FD203211737FF9623ECB05C91CF5F613F1B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0405D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0400D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "AB9F36F6"
+  ["authenticationKey"]=>
+  string(64) "7163A31E6B936CC43E91B176B310BD1611D0233A78F43E1F9396589D328BD7CB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0400D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "043AD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "EC27BE59"
+  ["authenticationKey"]=>
+  string(64) "AEDF01AFC6E534F09E772E519C17C5AB03E99D7AD4077AE8414CE8AD417E934E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 043AD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04E9D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "770F0299"
+  ["authenticationKey"]=>
+  string(64) "0E516B9FEC731FB3C332813522061C6F52040FD7A97910AE120C405DD4DEAD8F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E9D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04E3D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "750C47DD"
+  ["authenticationKey"]=>
+  string(64) "0487EC2CA276AB8EB5C8301B83304042C993870D14B0ED7018DA98D44517FE44"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E3D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04DED2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "851D2CC2"
+  ["authenticationKey"]=>
+  string(64) "1126690CD7B4396E283689D1647F383C6867DD5E8D0B5471FD749E2905A664B4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04DED2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04D9D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "720918AF"
+  ["authenticationKey"]=>
+  string(64) "41FC466734E0D49248309E946860AB68898645DEB13FDB14453C9D70085D2635"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D9D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04CFD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "70AA786C"
+  ["authenticationKey"]=>
+  string(64) "3FCD9454F8A1FF0A2887414C971E2D07F1225A6E1CB035A1759E6A69E33E2430"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CFD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04CFD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B9AD447F"
+  ["authenticationKey"]=>
+  string(64) "DA4F911AB5DF3C8077D723BDC58EEA6C0F39AEFF92ED8F75D8BF17121AA3DA07"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CFD1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04D4D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5DF48074"
+  ["authenticationKey"]=>
+  string(64) "1714A9ED3EA3BC2028B207CC2643F11D12E537D1B620027BAE3DCEEF83B59DC4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D4D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04D9D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "CD089F93"
+  ["authenticationKey"]=>
+  string(64) "0D800B78E2E3DD4E79950BF46DCA5CFB31FCC9803FBC21CDC0AF31496875154D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D9D2B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04D4D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "81750D47"
+  ["authenticationKey"]=>
+  string(64) "92FB8813B745CFEF94E1CB0913F03935EC929FC3DCCDAAF919008B1F72FE341B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D4D2B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04CFD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A6E07887"
+  ["authenticationKey"]=>
+  string(64) "F9193B304EBD94FD18594054DC9028A05EEA805222453A91AD8BE56DA93B1DD7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CFD1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04C8D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "67FDB249"
+  ["authenticationKey"]=>
+  string(64) "911615B835B38C7DFE006AF37EB51171AFF2CFD7A4BE7FB8BBCABF601BC6F043"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C8D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04C3D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6FAE4680"
+  ["authenticationKey"]=>
+  string(64) "81551D3109DE8FA5F7655742E53D1089AD9BFD678E58E9E2C3E75EF42F18C812"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C3D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04BED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BBF58D81"
+  ["authenticationKey"]=>
+  string(64) "FB99A767A07C589DEB39E75556ADCE6EB07A1613939C0890C5012197FEA1A58E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04B9D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "013BD2C6"
+  ["authenticationKey"]=>
+  string(64) "E0ADE5866826C33B7F4DDE9917A56B59BA5C5C075FFDA2A278AEB19AA7AC3FBE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B9D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04AFD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "53F88F83"
+  ["authenticationKey"]=>
+  string(64) "24F30C4FBDB291588EFDA30001FB5DBA8925DAA1DADBA6C873A9D934DAE3000C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AFD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04AFD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "CE483CD2"
+  ["authenticationKey"]=>
+  string(64) "1AABF78A40AC1AEEEDB6CEE20C0903B2DEF7D3B1E2B511998D5D81DC51C98860"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AFD1B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04ABD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5AF02CC2"
+  ["authenticationKey"]=>
+  string(64) "260917D90F4A3668B1F7A5585A3734B7D1B6A664AEEC93FEEC2F1A3614D6A70E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04ABD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "04A6D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "94C60298"
+  ["authenticationKey"]=>
+  string(64) "145A2A87D89AA6A25A81D4652F4E30866B0D8439275C30194AB59D4EBA4130C4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A6D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04A1D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "538D8C80"
+  ["authenticationKey"]=>
+  string(64) "0C644B541B6A9273815C138EB9343CF54FC5827B98B675813292459A6C6DC13A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A1D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "049CD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9E8FCA61"
+  ["authenticationKey"]=>
+  string(64) "4551E36CE09C910CDD675053D80EE2465981685C928098679B8A2446D6095764"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 049CD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0435D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "104B40D6"
+  ["authenticationKey"]=>
+  string(64) "A19366D9C99168F5A50D2AB3F9DBD18C748F6F41967EFC277A281A7295899281"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0435D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0435D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "12069D9E"
+  ["authenticationKey"]=>
+  string(64) "2AF3501540D475885CBC2DF8D8A4A1EDF98E66DAF02B16727BFE3257960467CE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0435D2B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "049CD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C25A32E5"
+  ["authenticationKey"]=>
+  string(64) "261EC04FF437E2F2ECA491231795B543819EF85639D9EE975DF25C329F81F9D9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 049CD0B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "048BD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AB427D14"
+  ["authenticationKey"]=>
+  string(64) "10BD25D9DF41C5D6A5AF4A454051F5A5E77C4B526D308C3634869AB8990AD201"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048BD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "042ED2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4F43D97F"
+  ["authenticationKey"]=>
+  string(64) "D51FE6A82F3429EC04F78D2D8ADFEF29E8294747F964FE7FB579FC5F6F25F6B8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042ED2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0429D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "18AFE980"
+  ["authenticationKey"]=>
+  string(64) "11CB98B8DC99C103CF0B963F5026A53E8767644098547F7DF66BC6339F2A61DA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0429D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0424D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E27AB44C"
+  ["authenticationKey"]=>
+  string(64) "2082505788AB50F9A1D7DEF5158B74DA9873CCBC65E66EFDFD50DFA9461B1416"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0424D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "041ED2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "993109A0"
+  ["authenticationKey"]=>
+  string(64) "8FE361213312D4E5F9E9320918EB2CF5AFCDD9B0E2D0C7951765CFB7F8370883"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041ED2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "041AD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9F932A65"
+  ["authenticationKey"]=>
+  string(64) "44D5ACD1F1F88087FD80D58622C44CCD047535393B7A3BBAA9326F563BD244F7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041AD1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0415D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7810C35B"
+  ["authenticationKey"]=>
+  string(64) "37952D5129FB9E215C244EAF69B417BAC165A560A8AF23272D5143DD5D314440"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0415D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "041AD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9F53EA25"
+  ["authenticationKey"]=>
+  string(64) "4228F77F7CF4655C4DA4747FAB8B348DEE94A2A3E0A6F5D885CB5DD4AC751972"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041AD1B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0410D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "46750C47"
+  ["authenticationKey"]=>
+  string(64) "F6A6D5AB900A948CCBB75C1F67284DD021CB68544EB2015861285C33A1CB4F16"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0410D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "040BD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "EA82BC53"
+  ["authenticationKey"]=>
+  string(64) "EABC46A67FA5EB25C93191EDC4383FA21B92331DEF391DC6EF575458462FC7FB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040BD1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "040BD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4A851C10"
+  ["authenticationKey"]=>
+  string(64) "24B75D0FBDDB08714BC2B77674095B7A65CC07915B8CFA476876C180FD0C9341"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040BD1B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0401D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "C86E06F8"
+  ["authenticationKey"]=>
+  string(64) "1968C60B56C61945D4D8CED904F18E923BD9D7E428996BD23483F33CDAB37B06"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0401D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04F6D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7E720A44"
+  ["authenticationKey"]=>
+  string(64) "B7D79B9834F6DB490B28A40F229C990B46FA6A2631699E9116BB1AC0530AD656"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F6D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04F1D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6BA53D30"
+  ["authenticationKey"]=>
+  string(64) "806B76EDBE2F0E784D5C0B7348D470EDA1E8A7FBE19E3EC3BC21AFD8E7B02CE6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F1D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04ECD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BA51AEE8"
+  ["authenticationKey"]=>
+  string(64) "CA379FAE33E1650B9EE5E19350E0396CA2783CB393C71FB57D729A2A89342FA3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04ECD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04E7D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "831B55EC"
+  ["authenticationKey"]=>
+  string(64) "242AE9D20226EC0E6D5A00D881D7F2853C250BAD4D8FAFE93DB91BC7CD1E6DF5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E7D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04E1D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B8AB437D"
+  ["authenticationKey"]=>
+  string(64) "6AF4CE162DBA4B7E9735A6013691EE60F1E2A26BC1EB5D05B2A3BF15B190C50A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E1D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "043BCCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "01978B23"
+  ["authenticationKey"]=>
+  string(64) "3A7060BBF1A935755DFA8A6A4B5F9E3131874941B9FF032BD23C7165490A0FEB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 043BCCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0436CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E179ABE5"
+  ["authenticationKey"]=>
+  string(64) "95AAFF4E40745114785F8E28B343594258ABFA5F3394F38484B7D38730AB0A6D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0436CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0431CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "175246DC"
+  ["authenticationKey"]=>
+  string(64) "E7985675C97CF99C81113822DF9709CA625B2055595EE9C25796885F10EE9CFD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0431CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "042CCCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8A7E8B22"
+  ["authenticationKey"]=>
+  string(64) "FF7EAAFDD3F18A7DE2DF4672209672FFA48F79580DB1CBE8F0A752EDFD8D035C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042CCCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0427CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C65D5147"
+  ["authenticationKey"]=>
+  string(64) "FCDC87192A7C1EFEBAFBC0102D497B0BE8E239CCC103F25DB7B6C085EDFA2F7E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0427CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0429CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "41FB92CD"
+  ["authenticationKey"]=>
+  string(64) "FAE5923464ED5075F2F6C0F6C9697A0D6CECDFC4211A5360AEC87A612A8C4FC2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0429CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "042ECDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "FB65FB0C"
+  ["authenticationKey"]=>
+  string(64) "97049587D0A380F692060579357A7FF15F80F035A6AE3023AAFF764CB7A10762"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042ECDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0433CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "44DBCE65"
+  ["authenticationKey"]=>
+  string(64) "3CF25AF46E6AD541320D06BAF25A779E8BFF8CD2F1AE5DFE7131939F2B4FE08B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0433CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0438CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7AB54C0F"
+  ["authenticationKey"]=>
+  string(64) "8AE2854EE00E2067F1D955CF87F4E21AA0B48B91D70D0F1F11B95E026331A4DB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0438CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0433CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D712A89C"
+  ["authenticationKey"]=>
+  string(64) "D5D56410E1C46E7B470D2CF2CA7107D1C2F9E72BB5EC3EE22B627A31D7DA8BAE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0433CDB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0438CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2317ADE8"
+  ["authenticationKey"]=>
+  string(64) "58621569A4581A4F49AAD8783FAD127CAB0FF1BE4CB5A1DB9B0956635B6638DD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0438CDB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "043DCDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "392DC479"
+  ["authenticationKey"]=>
+  string(64) "C2F1830DEBF12ABA7BC4D815ACFF2FEABD720F07549862F0CA5925F5AC3D5B13"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 043DCDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04DCD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "38730AFD"
+  ["authenticationKey"]=>
+  string(64) "A43A3C2F2092D75AE82BFE48487BEFB276386991D6108E4921A01D65CD37DDBA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04DCD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04D7D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "56ED3F79"
+  ["authenticationKey"]=>
+  string(64) "4F7A25CDF432BC9625A9D8E8342D4948A4A4EA8B9B481227A1DF2792028E46A0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D7D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04D3D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "74AE463A"
+  ["authenticationKey"]=>
+  string(64) "14EEE3A0C28E99FC84D456530A8A5791645F93BF639F16DEF1D50DB6B74132E2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D3D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04CED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4C4E8820"
+  ["authenticationKey"]=>
+  string(64) "0BE30DB853035ABCDE9A6FE8C0B816DB5B3D289CA45ED9EBBD5155E002A11A60"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "045ECDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "CD089F93"
+  ["authenticationKey"]=>
+  string(64) "0292C36D9CF3A927AA6B698FF280D4DF657F6B92D0264F5EA6A22A2ACE381CC5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045ECDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "048CCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3DD40FA6"
+  ["authenticationKey"]=>
+  string(64) "4FB542278D7775154B40FCE89AC2E4298B15B76993A74DEF6B79DEA9D28B7C71"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048CCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0491CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DA776B03"
+  ["authenticationKey"]=>
+  string(64) "74C6746E3306F3873DE51E8257246669455A71C3AD22357EA92056BFB4C58626"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0491CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0496CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "867A114B"
+  ["authenticationKey"]=>
+  string(64) "0750AA34B75A9875703D73A419FF1EE9685B4C45017AF44D2D591DD2DC5C072B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0496CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "049BCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6AA43B2F"
+  ["authenticationKey"]=>
+  string(64) "D8A2E7D3145B82268A85B3C60586F2343E4C4D22349F8E7AB6580BBA3C14B7F9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 049BCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04A1CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "35291A54"
+  ["authenticationKey"]=>
+  string(64) "B437E0447BE257332EEC3F18A7E8813EB3448AC81A628ADB14CB6E7F8CCDD48C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A1CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04A6CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "65FB8579"
+  ["authenticationKey"]=>
+  string(64) "5F7ADCA37F488837E397D805D58D95D3D7CEF5B7A5103CB3AEC01FF023FF1732"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A6CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04AFD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "39B2A63D"
+  ["authenticationKey"]=>
+  string(64) "397CE690FA0E709746D93B7EB3EB3DD5BC3C998DA61662715D24C9208ABBE32E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AFD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04B4D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6930C7D6"
+  ["authenticationKey"]=>
+  string(64) "C167EE7762F1F3DC4551C4424884769F0049A6778FAF4668E5D8E850C5DC79AF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B4D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04B9D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C860A33A"
+  ["authenticationKey"]=>
+  string(64) "E5935C8BA63C3E01D87D5B470849C3F9ADA03778A19E709966B071F2E0CE8E79"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B9D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04BED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "81180CA3"
+  ["authenticationKey"]=>
+  string(64) "ED6EE00389E6F0B0D9AB64DACA50ACEEFBFD92629D2284CDFD50138D065F9532"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04C3D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3ED55AF1"
+  ["authenticationKey"]=>
+  string(64) "E0D263EAA59D8EE456EC164CDFEC98CD4CF5A25946452912FEBCFEF353E8BA1A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C3D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04C3D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0102988C"
+  ["authenticationKey"]=>
+  string(64) "4F37A166EB80A5A995ED1B7CDF71C658CCA328D40423F2944C3AFB7F1001DA96"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C3D0B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04C8D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8C235DF4"
+  ["authenticationKey"]=>
+  string(64) "72976987E3D0F2885074834F1FF6278B4E9061D1C28D27B7DF0B109D58D12BA5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C8D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04CFD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "68770E49"
+  ["authenticationKey"]=>
+  string(64) "408BE0F6C9202BD2F0140089BF78F6C79E5CE8890CA6A6D51B726A4BA3DAF17F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CFD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04D3D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "68003A7C"
+  ["authenticationKey"]=>
+  string(64) "C50400B22BA4C6B91DAE5A291E79308B51AC1B2704A4AB1E5E99E066CC1E42A6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D3D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04D8D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9BFD9588"
+  ["authenticationKey"]=>
+  string(64) "31AB26443934FC6FDF7C2246F4C3DEF7CF2A747006859EABCBE33AF6F7878265"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D8D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04DDD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0F49A79A"
+  ["authenticationKey"]=>
+  string(64) "D760A804B96200AE0875C6CB00AC5FA54D6B71907C78E46A8B3C95BAEBB4190C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04DDD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04E2D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "FA91851D"
+  ["authenticationKey"]=>
+  string(64) "B887A2746BC2A44F5F728A7D41F4774289BCD8EF82C606AC729437E3FB18740D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E2D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04E8D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "75690006"
+  ["authenticationKey"]=>
+  string(64) "BC14A2A0754F9359D29D3710AF6A29B3097A36B8BAC3D0602B4E135E59AC193A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E8D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04C7D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7F730A45"
+  ["authenticationKey"]=>
+  string(64) "073FD2CE1D49B49AEBAC8355CC91144BF90537D4DD72565D91055CDBC43A9E15"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C7D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04F7D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4E42D82B"
+  ["authenticationKey"]=>
+  string(64) "C28CE0D8E5F8EED4861B002D0EB256AAD5633E5FC89505059E699AC4E407314D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F7D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04FBD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "861E0D00"
+  ["authenticationKey"]=>
+  string(64) "C9B7B58B9D5EA5652FB525612FAA42D9553C54FBB02C0B5CC33E84FCDD65788C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04FBD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0402D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4135CB07"
+  ["authenticationKey"]=>
+  string(64) "FD844B7010FE2BC391417E003D01967DA8C3B8E01D925CE815A61C8EE3D8AF6C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0402D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0407D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "FB46DD18"
+  ["authenticationKey"]=>
+  string(64) "1F29FB3BEA30B5984C8976F337A6FFA94C760830E063098ABE7F1689DCBF799D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0407D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "040CD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "55EB3ED4"
+  ["authenticationKey"]=>
+  string(64) "AE74F15E9822EEFC30677FB46C7205F280B25D34319369E02DE51967A7398A8B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040CD1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0411D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "35584CE2"
+  ["authenticationKey"]=>
+  string(64) "763A09DBBDF653D28CE09F8CD4EE1767236B6B3CA3AD5E5FA65B604C2BDEDFE2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0411D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0416D1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "CA629128"
+  ["authenticationKey"]=>
+  string(64) "38370D454CB1B0E7DD6D18303BB68849B9FBD563B80A2BA5912A72D2C654528E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0416D1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "041BD1B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "F088972E"
+  ["authenticationKey"]=>
+  string(64) "75C64253AB06643A76842B0F3FA706998FF26B1BAEC7BB1EE1E4AB2D8C90E64B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041BD1B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "0420D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "508AECE0"
+  ["authenticationKey"]=>
+  string(64) "3946C5A92F70C1A1D2F442F7F487E19376B240EFB7CDEBD6A096299DD8250F78"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0420D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "042AD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "CF0AA094"
+  ["authenticationKey"]=>
+  string(64) "7415107C96862BBB4AA51389CBE2371396F909739AE7669E672F4676F80EDFA3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042AD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "042FD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A53D31C7"
+  ["authenticationKey"]=>
+  string(64) "189CF76C4B5194FBEA50C1F10ED5EF52FA13E53E8CDA7485C15C1AF2E4CBA190"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042FD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0436D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "799CAB42"
+  ["authenticationKey"]=>
+  string(64) "94180603F97F595AA976B3842F6186C5C91FBF8FC11A888A9BF31265F2FAE2DF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0436D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "0440D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "41D8B048"
+  ["authenticationKey"]=>
+  string(64) "78C5590392C809354D1900AF47CB993CF344C1DCA4A91458453453C152BFFC69"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0440D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0445D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "8EE47B8A"
+  ["authenticationKey"]=>
+  string(64) "44C03649D9CAB5111AA5B5060AC96CD44DB408908E39341875DF7A45FC2AB5EF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0445D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "044AD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "B44C5BF2"
+  ["authenticationKey"]=>
+  string(64) "AE9812756CD592879916C61137D2FE54D446A83A68B25D6735E99D4DEF5FF193"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 044AD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "044FD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A4DF766A"
+  ["authenticationKey"]=>
+  string(64) "9EC144AF5A8F2A7458BD54C456B680959B22C5C49092D60E44F7CB903217A171"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 044FD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "044FD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "437E1509"
+  ["authenticationKey"]=>
+  string(64) "F2C28F221A47CBD03240D4243619DFF71B37386E05839ABB4984726863698EAE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 044FD2B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "0454D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "8D811853"
+  ["authenticationKey"]=>
+  string(64) "B82A095B1B31F4767F90B5E82F79D3B377EC76059AAA79E8003B8E09900A98E6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0454D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0459D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9057EE29"
+  ["authenticationKey"]=>
+  string(64) "05313C6822C68BFACD6B79CEB54F1936118308992037CA471B4E973D20845F0A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0459D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "045ED2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "609A3141"
+  ["authenticationKey"]=>
+  string(64) "6B07F02CAD9D3C564C4B99BE7C0EFE860A183C2ECD5619666763757F6BFC3D74"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045ED2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04A0CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A7E1796C"
+  ["authenticationKey"]=>
+  string(64) "FFE8DB60ADE0EF3EAA3C7C9ADE7AA2F2145FC12740A605034DB7A6F7E134F262"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A0CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04C2D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "365D6C03"
+  ["authenticationKey"]=>
+  string(64) "D78BA568FBF3365C35751FCE9CBE2D9A8C640DBF79A45F2D97C6C5F27E8B42CF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C2D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04BDD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DAE8DC73"
+  ["authenticationKey"]=>
+  string(64) "EBF0835FC10644FA2B31048F84F532E6D64EFF8D3867ED2ED955D0ED6D134855"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BDD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04B8D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "FE95D067"
+  ["authenticationKey"]=>
+  string(64) "04FC156C9DDB34E73393113F6538F5C50FBAC2006A8CE1EEDBD3EE0622DA78C9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B8D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04B3D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0AA0942B"
+  ["authenticationKey"]=>
+  string(64) "EBDF36F765A2723974AE87963B712A81BB2622DA9787E5C98B565492C20C3215"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B3D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04AED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C4FE956E"
+  ["authenticationKey"]=>
+  string(64) "96E3192F4DBCEFC50692AC3119B78FC65632BEE566CE58389EC561233E2993C2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04A5CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3E781004"
+  ["authenticationKey"]=>
+  string(64) "5F98EB638A0E54276AF528DA295D7FD820C73D354BF6CF13176DA3EA01D2FDAC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A5CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "044CD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "18AFA33A"
+  ["authenticationKey"]=>
+  string(64) "E3B4135D736F62FBDE11A4AE65E3616CC419C2F26316F209070E083A1E205BF9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 044CD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0447D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7BB64D41"
+  ["authenticationKey"]=>
+  string(64) "96C2B9A330D05C0249345329382FFEC254FFFABDF7F31C9B0CAB80C9D25560D3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0447D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "0438D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "104AE1D4"
+  ["authenticationKey"]=>
+  string(64) "A56FD292598B3135627A4C6B3B5FC38A58457E8C515BE0F656AC9F4C01EC8EA7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0438D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0433D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1FB6F0AD"
+  ["authenticationKey"]=>
+  string(64) "9F62BF3A3C7396836CDD328DEC918808192F6BEDE129AF46463A71F76744BAC3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0433D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "042CD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "AF471FB5"
+  ["authenticationKey"]=>
+  string(64) "84A080AE3150BCC86909790783409D7625BC83F9C61434090CCB859CC67BDB7D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042CD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0427D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "D9740C46"
+  ["authenticationKey"]=>
+  string(64) "C246FD3AE9EB97EA96576DAD0BE5AC986AC4C13C7897FF88A477C978A0DE3678"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0427D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "0421D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1E3FD510"
+  ["authenticationKey"]=>
+  string(64) "277A6DF47947A22F34B46C4B28946DE1A50AC59EF0AD3950F5EC1D48778FABF9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0421D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "041CD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "47DDD168"
+  ["authenticationKey"]=>
+  string(64) "318768E6CC6E6C94F64FC6FBA27DAD12850DB2B9EB8C8AC5F540AC9FE6329D09"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 041CD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0418D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "04F68EC8"
+  ["authenticationKey"]=>
+  string(64) "76FE2A2565FA2D87BDA83655D9C6251DAEA0172E78F3965835B488AE55B3FB23"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0418D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0413D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "3CD3E279"
+  ["authenticationKey"]=>
+  string(64) "D1894F5DD08C66FC57698076A5D4749657632C860ED5689758F49BDC97EF934B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0413D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "040ED2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "942CFE95"
+  ["authenticationKey"]=>
+  string(64) "6B7A32D6E803CC96510471908334CB2D22E4B20AB796419F2831C3C46675C817"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 040ED2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0409D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "FD94CF66"
+  ["authenticationKey"]=>
+  string(64) "269AD5048E028B0C4B1489B76F9E20DE37190A45E1BE8A949469B80056EB6950"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0409D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0404D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "ED28BEB2"
+  ["authenticationKey"]=>
+  string(64) "E491F4EEBC0A9B594192E8DB3FD694500F8BC1EDA639AC7BEB5727F6AE4A32E4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0404D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04FDD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6ED66E7D"
+  ["authenticationKey"]=>
+  string(64) "30069171B166F063A221F87080DADDB2895F86A53CC44CFCBE18A1D90AEB7A07"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04FDD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04F8D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "180BA33B"
+  ["authenticationKey"]=>
+  string(64) "5DF0D333D9782CC17E6EB2DC738E8E4938E98669A89932D070D8AFE2EDBBD7EC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F8D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04F3D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "EF86C158"
+  ["authenticationKey"]=>
+  string(64) "8EE094B3CEB7CB88F8E6992D2B3183AEFF14306F6B21467229B9466588138461"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04F3D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04EDD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B66A023C"
+  ["authenticationKey"]=>
+  string(64) "9B188CA261835D75ECF521DAFEC6771682FC11B44C4A743CD290DEE7C9E61991"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04EDD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04E8D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "EA81BB53"
+  ["authenticationKey"]=>
+  string(64) "3D97150A365C85E1CB855294C7708F9495B1F53176915D8DD554CEDDBD1D53F7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E8D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "04E2D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0EA4AA42"
+  ["authenticationKey"]=>
+  string(64) "56260AD6BC863B7F7243FBCEA826657B179DAF1BA50047C979117FEE3548AAA6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04E2D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04DDD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "180CA3DD"
+  ["authenticationKey"]=>
+  string(64) "19DB6FDBC90CC33BFB79976F41D83D986DA56779FFBACBBB2BD68ED5ED9F2BAD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04DDD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04D8D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "67A23977"
+  ["authenticationKey"]=>
+  string(64) "77157111DCCE4EC6945B4375201B4BD48289D13C76BF51F558FF8618752A4DDC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D8D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04DDD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "64FBD36B"
+  ["authenticationKey"]=>
+  string(64) "EF916BF6073EA6699142D542267DA2429977346119EC23B3E3AF1CB64067A5F7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04DDD2B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04D3D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "712CC2FD"
+  ["authenticationKey"]=>
+  string(64) "052702E621A542B8EEF472BB24A2EEE4700811D5A786D3F92571792335F9068A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04D3D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04CED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3FD6CA61"
+  ["authenticationKey"]=>
+  string(64) "7E71329BD36B5D46BB2F2323B370299AC8438B009070AF628D012277BC7BF1F7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04CED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04C7D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D971AB43"
+  ["authenticationKey"]=>
+  string(64) "831D8E630B7E4C09B76546299DA412BDD55AA6B8C8462DABBEACBCFE864DB89D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C7D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "04BDD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9C47DE19"
+  ["authenticationKey"]=>
+  string(64) "2A9B868177A340EB02EB826BEE543B14EB2881FB24035E037E0AF10FC8111087"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BDD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04B8D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9ED97064"
+  ["authenticationKey"]=>
+  string(64) "E88EA7D7F81351FC1D0721581B604564C04A633A711C813F7A24F34102B2F95A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B8D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04B3D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1AB1EB82"
+  ["authenticationKey"]=>
+  string(64) "BA3894269F358E96988A5D77E2E86DD2A069762589A820F27DC24CD79058B7EE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B3D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04AED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B189205B"
+  ["authenticationKey"]=>
+  string(64) "233F5C13769EBA7998E95FE66474C776F8B12C1472D1534C1EB7B68DE57738BB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "04AAD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DB73DC73"
+  ["authenticationKey"]=>
+  string(64) "AA66D008912BB65FE832904CFA908FA9F87681B40AD4FAAB732647346CA643E8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AAD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04A5D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "059BD56D"
+  ["authenticationKey"]=>
+  string(64) "6DAA709F367D448B8AF5FD139DC12FB3214959465D71C627CF69E96BF271D044"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A5D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04A0D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7C54EB26"
+  ["authenticationKey"]=>
+  string(64) "E2B6CF71E4E0EC2ACDBBCAEB3E47005E4E395A4006074E08EA208AF4A1DAE296"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A0D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04AAD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "297064FB"
+  ["authenticationKey"]=>
+  string(64) "33A28D7B6CC3534203EA54ED651EBA9BCBB280EF2D670641AC25CED57ACAE987"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04AAD0B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04A5D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D269A43B"
+  ["authenticationKey"]=>
+  string(64) "03C3113577878C70B9A807C943FCF43E9162CD748A1F1BC60C1EC5BB024806E5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A5D0B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "04A0D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5AF12CC3"
+  ["authenticationKey"]=>
+  string(64) "DB402C7560327E97C2BC82E9B42AC36A06C2E038D5C49D288A2CABB2174472CA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A0D0B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0499D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7D14089F"
+  ["authenticationKey"]=>
+  string(64) "1B36C0ED592600424164630B4F8BB57CF059954B34D30342E0A920E1E1CDE3C4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0499D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0494D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0DA4972F"
+  ["authenticationKey"]=>
+  string(64) "4C66B574135739C62E05E03037CDBA5DF6925A9797647646078EB11955E69ADF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0494D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "048FD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "91280197"
+  ["authenticationKey"]=>
+  string(64) "D610D73010AC49D1EC731543996998BF078773FE30F0283BE823E29F462E0BC1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048FD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "048AD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F8330110"
+  ["authenticationKey"]=>
+  string(64) "12C5A36A7D61DEC3B45F41045E7BE47C77DC27D364262F29E3343BA71CA9A107"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048AD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0486CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "172519AF"
+  ["authenticationKey"]=>
+  string(64) "680D94CADB56FA233013028863C0C20020CD6B23B896BC0E46B3D3F45A20BBF4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0486CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0481CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "48821A6B"
+  ["authenticationKey"]=>
+  string(64) "91D6F377DE2A3A65EFD9686BD513150907D645B3339742A1BA12B363976DE98B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0481CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "047CCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2E6800F3"
+  ["authenticationKey"]=>
+  string(64) "2864CADC560351C138906F79BC6751EF01618BF09016A5BFB571947EBDF21D08"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 047CCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "047CCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D1D169A3"
+  ["authenticationKey"]=>
+  string(64) "E9080ADE6AFE90747604395030D9AE28EA05904B1FD1560552FB7AC51AE48CC5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 047CCFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0477CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "46DCD068"
+  ["authenticationKey"]=>
+  string(64) "B892123D9D2DB8B8EA688EFC967DFAB870B9BEABFF1FD4BFAB3C6CD584E1D3C0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0477CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0472CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A896D168"
+  ["authenticationKey"]=>
+  string(64) "C0457C43476B37CD64DD66F813D8A880F2608277571922421B3DBCB805971491"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0472CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "046DCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "473BD10D"
+  ["authenticationKey"]=>
+  string(64) "B38BC1E46BC3E820A8439DA4BE10038E7AE5D1B1EBB73D1EA3CDA9D324DAB66A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 046DCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0468CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BC114BE2"
+  ["authenticationKey"]=>
+  string(64) "240715A9ED59B8770D42B70F2EC78B2011EB64E8AB60DEE2850D0CE25325FFA1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0468CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0468CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AE463AD3"
+  ["authenticationKey"]=>
+  string(64) "4B66E379BA3A6D5106612F26B5B3999EC19FE8000A9F9AD0304757F537ACD0A6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0468CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0463CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "47A1DC73"
+  ["authenticationKey"]=>
+  string(64) "D85B7211BE0D959F4E38211F1F2197AB440E8DACD3085B724BAE52B9DFD54AC1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0463CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "045FCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B3ED20B7"
+  ["authenticationKey"]=>
+  string(64) "9BE464861DD27ECC3AD9458B6856E29C8F9A88A7AF805DA7F90E2574A357123C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045FCEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0456CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "541F593B"
+  ["authenticationKey"]=>
+  string(64) "8A2139BD6569A109378229F44AFEC4469466758C4CC3B8CD92BBF371F6D944E4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0456CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0452CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "90CB6256"
+  ["authenticationKey"]=>
+  string(64) "6EF3CF5A95CF00CB1EE92018221ED51750639479E9DB4E7906B921520D8B84CF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0452CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0444CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "EEFD94CF"
+  ["authenticationKey"]=>
+  string(64) "A09AE79097B6E1E7E31D8CB37A522760A799FCF3FBC34235E74CB11F7AF33A66"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0444CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "043FCCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "47DE72AC"
+  ["authenticationKey"]=>
+  string(64) "8AF5D44E06D2779ADECE64BBA732F14C733684CD02772475FEA2D877F29C3D91"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 043FCCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0435CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "CAD970AB"
+  ["authenticationKey"]=>
+  string(64) "EA3148AF23934FB12BA6A9711BE44377AF99FD322AA87466326CBED044495D57"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0435CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0430CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1953EA36"
+  ["authenticationKey"]=>
+  string(64) "A87671F3988E18217174AD7EA75D95195FD59A8F7D8AB03AA78F26FC1651D960"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0430CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "042BCCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DA7E1625"
+  ["authenticationKey"]=>
+  string(64) "5E26D38F7D4D45450915D32F42EDF5D0DF4353DB264FDD59D40C613012089134"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042BCCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0426CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E8807352"
+  ["authenticationKey"]=>
+  string(64) "4D66045858F537D609D1A4717987B023C292B91EC56C0D5836F77C08A7EA123F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0426CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "042ACDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "FCF0870D"
+  ["authenticationKey"]=>
+  string(64) "2257BAEE9F6BF2DD80E2296931A6F66B12566C6D46E8BF24CCCF8F66817AD11F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042ACDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "042FCDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2CC3FD95"
+  ["authenticationKey"]=>
+  string(64) "16FEB60EA1CF82514CAF80E284A700295FB19AC2ACF3541A0C3B489F0E719505"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 042FCDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0439CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3A66FDF0"
+  ["authenticationKey"]=>
+  string(64) "0D6E297F1350E2470C4EDEE5075F00F2DDF2513080EF220C547C367B7224C17C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0439CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0445CEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BF2EC49D"
+  ["authenticationKey"]=>
+  string(64) "CC94405D3046966BCD9074F551939DA22E29F99A9DA4709471D8314D7C05FAD4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0445CEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "044ACEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "74665AF0"
+  ["authenticationKey"]=>
+  string(64) "6CA010B37D6736D8697CCE6F536B279FADCF2304388BB2609A7099C9AAF63D9A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 044ACEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0450CEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5B4FE621"
+  ["authenticationKey"]=>
+  string(64) "A9917E470A088896A480A0553E8D4C9D7A9B4C0EAFCEB8F703551618021A06A8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0450CEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0455CEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9EE4F38A"
+  ["authenticationKey"]=>
+  string(64) "6E1506C0E83DE3206444072CC95E392EA5E8FA0901B1441663DA7C1327A93C66"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0455CEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "045ECFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2B039AD4"
+  ["authenticationKey"]=>
+  string(64) "0303170847EC3B8C489783D06F89A58FD22218F338BC2B97238CA5370675EDB2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 045ECFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0462D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7A12069C"
+  ["authenticationKey"]=>
+  string(64) "83104110D3597BF0D822B13359CC116CD6B7763763C316C68C826D7D65F80437"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0462D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0467D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "11A8E27A"
+  ["authenticationKey"]=>
+  string(64) "A000D3ED98287911C6DDEE5E53DC40BCFA0B20B52B94DDADC29ABCA7ADBD220E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0467D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "046ED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "22B9F38B"
+  ["authenticationKey"]=>
+  string(64) "3FE4C58285D4DC062D7ECF73E6B62A54A60DB5891338985B54571F3F2E060CD4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 046ED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0473D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "245EF4E8"
+  ["authenticationKey"]=>
+  string(64) "C96E5ECD9CACAC8DB6F076648B69C43192BC09E598955B19CAAE4BC464B7ED3E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0473D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0478D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "851C2CC2"
+  ["authenticationKey"]=>
+  string(64) "19A3C70124AA6E9B46BEDACB983C44C4B5BABC9EC146DD9E52CA387AE51EC163"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0478D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "047DD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5C4FE621"
+  ["authenticationKey"]=>
+  string(64) "A21A40329079E96B7481B172E4E9EC27465B94E184C33D302F54ABE202507CD1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 047DD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0482D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "407A1144"
+  ["authenticationKey"]=>
+  string(64) "6CA818AE7D0A5EA2DDC780CAE4DDD39BBCD2AF83BB4976B04B0C31775EE17EEA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0482D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0487D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "873428BE"
+  ["authenticationKey"]=>
+  string(64) "389C2CC1C05E8192C504515BD04F066965B89BD7D8DD55E737D7673F5AE6D256"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0487D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "048BD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7B8A225C"
+  ["authenticationKey"]=>
+  string(64) "25335E05977BC986A01BC30641987231B7EB16D7670475520C101529809540F9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048BD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0490D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "03998D23"
+  ["authenticationKey"]=>
+  string(64) "06B2D06A99CEEC2AA212E12B8CF3A1CA4DE678C82370EA2AD41ABCC91D6501BF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0490D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0495D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AAB9518B"
+  ["authenticationKey"]=>
+  string(64) "346152A11CE6F849CD7C1CF18B30EE5BF5BEDA5A29CC1873CE3F091DDDD12DD5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0495D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "049ACFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A89C336E"
+  ["authenticationKey"]=>
+  string(64) "F9E1E803EB9E40DA351DD9E7EEB43A0430DD8EE91510AC56639E67DD59230A70"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 049ACFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0490CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4538CF0A"
+  ["authenticationKey"]=>
+  string(64) "A366244175E5C6E66B98491BE4EEB19F90E9D235304C4ED96DF1E13D1A91E887"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0490CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "048BCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2F6A01F4"
+  ["authenticationKey"]=>
+  string(64) "248B65DAB99CB408D39B594AD0675C5960738F81294D96E471D2BBFCDE2908DB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 048BCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0492CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "24BAF58C"
+  ["authenticationKey"]=>
+  string(64) "7ECDA04C66159AD23C95868AF22870E22E3035506EB74A6BFAF17B6A168DA292"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0492CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0497CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "245EF5E9"
+  ["authenticationKey"]=>
+  string(64) "7674C07BEA19707FDC3A427BBC5B5063D977D0F939EE3D4DE6886E13341264DB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 0497CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "049CCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C7029935"
+  ["authenticationKey"]=>
+  string(64) "9EA6AAE9EEC4C323D86FF83089D7D694C82BA2560C0E26CDBF4C9E0E12510E85"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 049CCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04A7CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6F07F991"
+  ["authenticationKey"]=>
+  string(64) "7312B31A7D3DEB81AA12AC91FC84A41E1000A7949F92D314E5F9D083365C834D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04A7CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "04ACCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "932BC65D"
+  ["authenticationKey"]=>
+  string(64) "E9A1B8A1CA172D0E243F43FC7C7226D75F59C65C6537682F4F52E25941131FE2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04ACCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "04B0D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E9DD1EB4"
+  ["authenticationKey"]=>
+  string(64) "FA3829551ED98563E3717A88E18B502262EA5060A9B8E6C7FB1F4C9A0E5FD026"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B0D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04B5D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6D053FD6"
+  ["authenticationKey"]=>
+  string(64) "FD4FACC46408AFE3AC4892797263BFC0F15187EFEAD71750A4BEC54B60324B18"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04B5D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04BAD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "871F598B"
+  ["authenticationKey"]=>
+  string(64) "4E526CEC44CDA486904B9F0A09E09F1400FEF7D7CA5F60548C017D62898C6CE2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BAD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "04BFD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E2AF463A"
+  ["authenticationKey"]=>
+  string(64) "52DDF8C1679F8F5A1D67C6ABAF181AC3E35BC5AE700DE116EF7CD92BAF4E1B68"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04BFD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "04C4D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1B942B1F"
+  ["authenticationKey"]=>
+  string(64) "EE6B65626271DA52043E79531566171342FBBE9249F9D10CC93F52ABDB4096AA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C4D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04C9D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7EBCB048"
+  ["authenticationKey"]=>
+  string(64) "532CE7CE4118DB1714FAA0C238A66C9F012EBC5EED35783E0ECA5902C864C49B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(8)
+  ["operatorID"]=>
+  string(2) "fm"
+}
+Tag 04C9D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "042ECCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "204337CD"
+  ["authenticationKey"]=>
+  string(64) "EC91FF2FCE7F5C890407462081A26D72CEA4077A458E51EC44A916A90931C8B1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 042ECCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "044BD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7209FC93"
+  ["authenticationKey"]=>
+  string(64) "0DCEB4D13F08159F0311AFEDD986FD5DE806C8BBCD421BB994E9D84351BE4F30"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044BD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0442D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "3109A0DA"
+  ["authenticationKey"]=>
+  string(64) "C5F00A35F2837F0FEF25BB3A24396A2F786523A23D2CBC78C744674094F38FAD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0442D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0442CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2B1FB5EF"
+  ["authenticationKey"]=>
+  string(64) "02CB7C60820313F36A504B06FC321CEAFA5895313C90EE400D49786CDCBDC50A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0442CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0446CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "982F75AF"
+  ["authenticationKey"]=>
+  string(64) "9EDB86532E9E4A2A3658849EEF97B7DBD0ABA5DEE6E938BDFBF552C8C667672A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0446CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "044BCDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "60F6CF66"
+  ["authenticationKey"]=>
+  string(64) "98877693F3C234CC3B8C42D84830D41B5F6047AABFFFC12EF0C4F2CBD81E968A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044BCDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0450CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5D50E722"
+  ["authenticationKey"]=>
+  string(64) "AF267CDD5787C3F7EED73D085C6776CE46FAE489B0442BAB900048C540FC92FD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0450CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#13 (6) {
+  ["tagID"]=>
+  string(14) "0455CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "38CEC25A"
+  ["authenticationKey"]=>
+  string(64) "E1DB48D691D7275D037F7328019F812694B69226857D1171ED4C050FE0E133E5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0455CCB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0459CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8BC65D51"
+  ["authenticationKey"]=>
+  string(64) "3ECDD880653DE6B9671B959F2B3C8E34E1297DC8791987E235863C1E44A4BC63"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0459CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#18 (6) {
+  ["tagID"]=>
+  string(14) "045DCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "66A0382C"
+  ["authenticationKey"]=>
+  string(64) "1ED8E6B2CAF56B3E19ABF00B3A7FF025F22D1FE52A2BA7B5A0B916B21364097C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045DCEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0459CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B8DD7569"
+  ["authenticationKey"]=>
+  string(64) "1C297A21E79D5CA64C1B310B2FCBD55006405BD794DB0437D9A9EF60841E942F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0459CDB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0455CCB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "14629C34"
+  ["authenticationKey"]=>
+  string(64) "5F19651D3D2676A14B0649744509FC6F8B58CF57BD3CBB2704DCAC90E297C3F0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0455CCB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0459CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E2D56DA7"
+  ["authenticationKey"]=>
+  string(64) "BB1F85A0914DD6B709905347D37285B14F2B788F69C7938E9E56D7E31DC66904"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0459CDB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "045DCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D971AB8D"
+  ["authenticationKey"]=>
+  string(64) "6B722624B34FFBB7069BEB8712BCD366BA21CBFCBFAAB7E112001AB5E0475455"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045DCEB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0461CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "357165FC"
+  ["authenticationKey"]=>
+  string(64) "0F8E0141C38E16A972E782F6EB1A305E4BF4CF96A15E2C4D94C929634CF42842"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0461CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0466CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F68E8219"
+  ["authenticationKey"]=>
+  string(64) "36F966846ED338BFA9FD790874AFA4B3AF29C29518112C01804F25B03DC1CF5C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0466CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "046BCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5EF530C7"
+  ["authenticationKey"]=>
+  string(64) "957DF88FDA22BCA4CB3C9C58D4AE033EFB4032F6BD700FA2ECAD96BA8FFF737F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 046BCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0466CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6DACE67D"
+  ["authenticationKey"]=>
+  string(64) "12060A54B1F732426EAD1AE006B3FD6EDB3FFCD5A6B7C274F2922A2236E8B098"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0466CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0466CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7CB6C8BC"
+  ["authenticationKey"]=>
+  string(64) "D4562CA98157676D1FB2A2DC7D42D6170973FCC31A6EC61A7066E004365F8FBB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0466CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0461CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A27A1233"
+  ["authenticationKey"]=>
+  string(64) "75BF9CADDB19BA1B83152E889E544F98781512974F3F580791BE48FC7BAD03A9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0461CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0466CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "46DC1878"
+  ["authenticationKey"]=>
+  string(64) "3F62BAB4830A7D6304669E03AB4ED95996BB97D8943D6323F8D33C4F32043272"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0466CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "046BCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4B86DA72"
+  ["authenticationKey"]=>
+  string(64) "3FDE934D6694F947E20935FF858112BB30002F1DF6598FF70BEB80251BAD8DAE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 046BCFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0411D2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "EF89C35A"
+  ["authenticationKey"]=>
+  string(64) "188DB88D135154594F9B389D6CE3EE1E71737B89F666108E156B6A5699C1EECD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0411D2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0475CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "357007FA"
+  ["authenticationKey"]=>
+  string(64) "D3FB9043CA1CB8699586B7C7A8228026514672A9195F5F359D9917E8BE22755C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0475CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "040CD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "03F68DC8"
+  ["authenticationKey"]=>
+  string(64) "614FDB468E46242D77DB10CE4700ED46F28C906C3F9E2E965977FCD082EE2472"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 040CD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0438D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1852E9DD"
+  ["authenticationKey"]=>
+  string(64) "BA4EC3635161F362E5737F814DB369E4FFFAA7A0E2BCE9666C14EC5E19F2A853"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0438D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0484CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "86C8049A"
+  ["authenticationKey"]=>
+  string(64) "43E215A7CF464928748E5E4F50D14FAB9BC32C13744064A1800A4DBAFCC7B758"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0484CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0488D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "72AC4337"
+  ["authenticationKey"]=>
+  string(64) "DB6895111A2280F2B0C7C639D45EB844E31C644852F801567902AA69A5763FED"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0488D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "048DD0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AEA289C3"
+  ["authenticationKey"]=>
+  string(64) "E4F36CC0CB0730174D6E64C4D0A470E95E018AC4FBFFEC36A089728BCE0D32C0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 048DD0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0492D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8F831B55"
+  ["authenticationKey"]=>
+  string(64) "BD52DC62E439339BBD6432BF5EFA91AAB40886ED315E4A0DA65852BC6345F0B2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0492D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0497D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "25BC740B"
+  ["authenticationKey"]=>
+  string(64) "76DE22133C45983AE74BBA4E9D04B07E357C4C40835301753A8CE16457B621FA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0497D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "049ED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F58DC72A"
+  ["authenticationKey"]=>
+  string(64) "E7E5BBC3585413A54A9FDC6B7D3155E733A5D4069AD72D318F1E5338FD922664"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 049ED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "042CD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "CD003BD1"
+  ["authenticationKey"]=>
+  string(64) "121A9089D6E992665EA46DBC0966D127BF1D49A503D8D614BDDAE586E1B6B8E0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 042CD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "04A8D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "15ABE67D"
+  ["authenticationKey"]=>
+  string(64) "7D4F3948C53DC73AFA2F06E2BD82BA355C6346CD8018AFCE0FA840005A972F94"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A8D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0427D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1D57EEFD"
+  ["authenticationKey"]=>
+  string(64) "8CE892D9DD011CAA9A6810404332855D1CCA6C5720E90F6A549B1658EAE88A30"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0427D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0498CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "053F574B"
+  ["authenticationKey"]=>
+  string(64) "65B6B580222C83108943FAF3E8FF9EDA2B38DB9FA72F8316878A384C4337E380"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0498CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0493CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AC441650"
+  ["authenticationKey"]=>
+  string(64) "AE9AE3C8B61712AC36069A8FC3BA54F2241527911F14300CD0B05ACF64C4626F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0493CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "048ECFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6CA63D31"
+  ["authenticationKey"]=>
+  string(64) "EED92C4583FE6D5668894CBF64043A365D4F6514D76C9B4757A7E9D1845798B2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 048ECFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0489CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F890CA61"
+  ["authenticationKey"]=>
+  string(64) "7C7A63B7FA743847C26B40C9FE6E83CAF25773F028C8ED2BAFCEE7F7D450D035"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0489CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0485CEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0BA2DC74"
+  ["authenticationKey"]=>
+  string(64) "3F0156E0014D55300C2C4C1CE3E63C8587D82D3DB24E6852BF7C7A64C6DCC210"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0485CEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "047FCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "ED28BF97"
+  ["authenticationKey"]=>
+  string(64) "532AC45A5C5250953FA7A78113BF2F7688C36C1E12C4DE4F99EDFB114AFC6533"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 047FCEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#8 (6) {
+  ["tagID"]=>
+  string(14) "0422D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "8A2115AC"
+  ["authenticationKey"]=>
+  string(64) "3184303015202D8820CC2771C65A21B1A615802F5EF152332A62F8D55DCCBC94"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0422D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "041DD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "6AA53C4B"
+  ["authenticationKey"]=>
+  string(64) "4F015CE0DC4FA8B69EB612FC030E19C2E6C8083FCCCBB303AD4A3F7455328C95"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 041DD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0419D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4438CE0A"
+  ["authenticationKey"]=>
+  string(64) "51AA64A6A40E189BB5BBEC4CF2B89F1ABF91C62073848771E7E60C009ADBAEA1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0419D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0419D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1E58EFE3"
+  ["authenticationKey"]=>
+  string(64) "FB6A9950D30133433E2E19DD07B7BF5791F565CE7A14EA61B3A2D4EDEFA0A955"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0419D4B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0414D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "DC73AD45"
+  ["authenticationKey"]=>
+  string(64) "A16A7411728E19E3B5DF2E5B48FA739EB9F272D96143C62BCBB5DCE68CD81A93"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0414D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "040AD4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "CBF88F83"
+  ["authenticationKey"]=>
+  string(64) "D0FB7940E3708E232F2694993FF061BE9C511F9955A02BBC0407260DD170673C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 040AD4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0405D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "BC5347DE"
+  ["authenticationKey"]=>
+  string(64) "8D489B8524579F25C20668C799905623D736EE43BE97EEF3C0DEB41109400267"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0405D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0400D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E77E7264"
+  ["authenticationKey"]=>
+  string(64) "5F70114E977E1EDA0ACF8B082BF589DBA88BAB6B5F3337180A18C5F1AB6B9324"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0400D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04EFD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F28A7DE0"
+  ["authenticationKey"]=>
+  string(64) "55517253D0E9512F51A535F791A21F033DB88DAAE206B55139EB00E1F7825AD3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04EFD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04EAD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "17ADFB37"
+  ["authenticationKey"]=>
+  string(64) "56C6D2A621FB888A792E198C4C24DB7088D102669EAD63013A669BBEBA62A096"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04EAD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04FDD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "98829128"
+  ["authenticationKey"]=>
+  string(64) "11475A486FEBFBBADF3C9F3430C77F614197CDDF54DDE20BFC29324608DC984B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04FDD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04F8D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C60152E9"
+  ["authenticationKey"]=>
+  string(64) "78FB750649A305193CF32F4149D82B85F309E54CE145275B4CBC961E73D28E7F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F8D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04D2D5B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8A7EC0FB"
+  ["authenticationKey"]=>
+  string(64) "70DD805EC915D4EBED917D01FC97849A6DAAF85B049239A6267ECA62E39AFEA2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D2D5B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04CED4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8526FE95"
+  ["authenticationKey"]=>
+  string(64) "CACAB044B6F619AE3A2952EC42FC117B0108B7C9D9E8DF143F0EC39DF81C0594"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04CED4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "04C6D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "56EDFC93"
+  ["authenticationKey"]=>
+  string(64) "089476E6A4C5EA2F44CDFFB102454F736214085CAB0F8064703D0CA9B2213DF4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C6D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04C6D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "63DCD067"
+  ["authenticationKey"]=>
+  string(64) "4DFD632E87895D09270826BE7710181C027A7D05BF546EC30FF207E8E7A54018"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C6D4B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04C1D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6FAA4135"
+  ["authenticationKey"]=>
+  string(64) "D5F6644850A751C3D6E2A9A216EEC0F4244668E7BA8A5636BB8BE83C35B7BDAF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C1D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "04BCD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D26AA4FA"
+  ["authenticationKey"]=>
+  string(64) "9432983D4EFFAB88CF51BC77631422AEE2A6B5ECFED5D9930264467BEC18CC55"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BCD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04B7D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D76FA99F"
+  ["authenticationKey"]=>
+  string(64) "37240771A69CD57541BA9B175D9C952F7712A61D4C952B10F6B48A8F00A688CB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B7D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04B2D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "CD2C1FB6"
+  ["authenticationKey"]=>
+  string(64) "1F98282D069AD76ED7CB58E5FD1FF5B90689BD63B49B59FEE9E25B4E964AA7BE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B2D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04ADD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4C871E92"
+  ["authenticationKey"]=>
+  string(64) "864932E17B82E2DDE2C71B41518D48C1D142516E046253B71A5857B0D3AF209D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04ADD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "04A9D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E27A6D05"
+  ["authenticationKey"]=>
+  string(64) "1147E7E392F4A1C0F75C6956BFD75513346E2677E8322C4B253A78ADB556B5E5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A9D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04A5D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E47CB64E"
+  ["authenticationKey"]=>
+  string(64) "E6C2ED94C55AF55D95A1183FF316872A3315C98760344F1369E2EDA3BA01A682"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A5D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04A0D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "09FC94CE"
+  ["authenticationKey"]=>
+  string(64) "8A4CC9867C2B6C85608E1182C5F18961B2005F412B8376048E0C0834D7F4BAB5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A0D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "0499D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "291CB3ED"
+  ["authenticationKey"]=>
+  string(64) "23C760F159CDC63BF3B8AB654C0CFB249CDA5FAB4450D8D7FCB0B5C50355DBC1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0499D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0459D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "36CDC158"
+  ["authenticationKey"]=>
+  string(64) "3E4021D81CE44AF19022EE69B54B0ACF66A470059E1C128C88EEE3CB04B35760"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0459D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "045DD4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A1392DC3"
+  ["authenticationKey"]=>
+  string(64) "90E381ACEAAF1CFA8A5527341BBE10000E811B041A575FE74BB6048208E1E30E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045DD4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0461D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "3CD30EEB"
+  ["authenticationKey"]=>
+  string(64) "4F4D2EF7DB5639DFF67C1283131FF23D5606A059D9741C66A284106642718D77"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0461D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#21 (6) {
+  ["tagID"]=>
+  string(14) "04EED4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "94871F59"
+  ["authenticationKey"]=>
+  string(64) "1B283660B75F4F4CA420B19124CF22353A0182EE019D06358293E39A44080523"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04EED4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "04F3D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "984E8820"
+  ["authenticationKey"]=>
+  string(64) "719EE6DC13BB48128E4E952FD01DD11C6469C2A05A709D85DE0483BBC8975FAD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F3D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#10 (6) {
+  ["tagID"]=>
+  string(14) "04E9D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "16F7EA82"
+  ["authenticationKey"]=>
+  string(64) "BEB508E7C59425F04E1D5EB910494553AFDAFBA2E2504494CC60859D8661C546"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E9D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "045FD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9A51E722"
+  ["authenticationKey"]=>
+  string(64) "50E55EFB6848B377588E9EAF3A2DBCAA53329942286049A72F7BD1D902FA6D82"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045FD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04E9D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1EB5A987"
+  ["authenticationKey"]=>
+  string(64) "CD04E527A8093C20F2A5F5B506749473DD2A2C81D5F99F3F8030C52F15AB8CC8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E9D4B2DC4C80 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0471D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "12A8E222"
+  ["authenticationKey"]=>
+  string(64) "78996EE16DD55D71F0A18329686FDD2BABA7A7F66F353168D1415C20A669CFF6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0471D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0465D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "19AFA33B"
+  ["authenticationKey"]=>
+  string(64) "ADF4DC8CB8C70B25C3FD03174C9D7FC11FA2D0305E6622FE49B8EEA1E9D63116"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0465D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#16 (6) {
+  ["tagID"]=>
+  string(14) "0460D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AD441D7A"
+  ["authenticationKey"]=>
+  string(64) "BB02E65481928DF75FD050041EEC9D17F465E9118442E8C0C31FB7C06090EC79"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0460D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "045CD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F7EA82BC"
+  ["authenticationKey"]=>
+  string(64) "8F9471020798F75F3CD42D37563411E5B56BE631E7B09D41F6C8C27CB0AEEC5E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045CD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04E4D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AE4639D0"
+  ["authenticationKey"]=>
+  string(64) "14458BFEDEA1A09D60B8AA7A5A7C591DDF1AD4E0712FA055291355A133723764"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E4D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0453D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D870AA41"
+  ["authenticationKey"]=>
+  string(64) "DCF22905587FC58BFA562A70074E618B1C386873F50499B99ABA8AA3372211D4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0453D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "044ED0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "334243D9"
+  ["authenticationKey"]=>
+  string(64) "26D1D8726CF94B1628BB0E8C752684EA5EAED4ADB81DBFF62F820D25DF0444E8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044ED0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0449D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A11B0EA5"
+  ["authenticationKey"]=>
+  string(64) "3DF3CDE48A7D8D1EA613204B64C1CDDDCEF5F36DB76DED4EFDCE301198B890A6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0449D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0444D0B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A89C336E"
+  ["authenticationKey"]=>
+  string(64) "476366F21DD15D123A774005A3FE0D9970C0882AA9C2551912D7BD2F5DF56FBE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0444D0B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0440CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "3E32C904"
+  ["authenticationKey"]=>
+  string(64) "ADFB2E37B904616E582650F3C97A1D93036E7C5D736B070893703663C71E8FC9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0440CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "043BCFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C23428BE"
+  ["authenticationKey"]=>
+  string(64) "4AAD44ED38A0F73990B5CCA40D2FCD3DBB59B89A237E7BA03C2F8F5AF1A1FBEE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04DFD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1ACD629C"
+  ["authenticationKey"]=>
+  string(64) "2F66858DEEAEC922CD66B9CA422EB83545887F05BDCF0F3E86FAE1B0AD7206AD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04DFD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#20 (6) {
+  ["tagID"]=>
+  string(14) "0431CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8F56EC28"
+  ["authenticationKey"]=>
+  string(64) "BA0DD0F4759C029AA9E5C22906E00F5A5E4F0C960797060AA2C80E66E539C9D1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0431CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04DAD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "EFFE7E16"
+  ["authenticationKey"]=>
+  string(64) "4199130C63828A27D32969CC6AECBC216B114BC11D338B894501F34E1812BB20"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04DAD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#22 (6) {
+  ["tagID"]=>
+  string(14) "0427CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9931831B"
+  ["authenticationKey"]=>
+  string(64) "2B1C192CF86D8DDF924423257628FB8DC477BEBF54C5C20BCB64EB2599527837"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0427CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0427CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8E2560F6"
+  ["authenticationKey"]=>
+  string(64) "57BD9FEF80921F7EC8C0CB156AC12EFD2BFE8188691330614444119A9CB0BCEF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0427CFB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0421CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7EB85044"
+  ["authenticationKey"]=>
+  string(64) "8E38889B25DE388313871F2A15539696963295BDBE06A50E6BD3B59CB217F9A5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0421CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "0421CDB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "75B0473B"
+  ["authenticationKey"]=>
+  string(64) "8F1A9339599BD3DE1E952C60393DFABE2E0981F385AC948B5BE1E57936A45031"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0421CDB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04D5D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "ADE77F72"
+  ["authenticationKey"]=>
+  string(64) "35EACBFEC6F5EA8174B822A31C62D35D40D29A9C1381EBA50669555BBD0DEAEC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D5D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "042BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7BF48C7F"
+  ["authenticationKey"]=>
+  string(64) "11263BEFE124F6AC64F4363B7B607F84E17097807718614DC8E8930D9E252B42"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 042BCEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0436CEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5F52E924"
+  ["authenticationKey"]=>
+  string(64) "DD9DB73D81E08ED2EE15C0FC1CE6D561BA1C0109C5B14727700F43A5A2CC6E65"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0436CEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#14 (6) {
+  ["tagID"]=>
+  string(14) "043BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D269A43B"
+  ["authenticationKey"]=>
+  string(64) "489BE0E9F237302DECA9E06510E600B83FD88C698735F8A4072B0D3930FAB3B9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCEB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AA4236AF"
+  ["authenticationKey"]=>
+  string(64) "E2639931AEBDDB2A6AED55CE50AD0A6774B22946BA52076348E38DE334B1DF01"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCEB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BC548EC0"
+  ["authenticationKey"]=>
+  string(64) "97A60CF6C1DB5275EC7293BF76A31E58799673821EEE40208CE7514F8B5A83FF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCEB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "67FE7810"
+  ["authenticationKey"]=>
+  string(64) "0F6569D294D94A68FE655642DBEC6A5A9DEC99C476C702B35A770C7F2693111A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCEB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043BCEB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E67EB813"
+  ["authenticationKey"]=>
+  string(64) "76DFD3FDF1C62699CDE77BDF5C2BB41C4DE81F9D41F74F7C200FF73DFC00115F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BCEB2DC4C80 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0444CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C1FC9387"
+  ["authenticationKey"]=>
+  string(64) "B31190C39EC983B7F5878DF4E22B9002D016ECD1E46479EB3DC1B1757E4F307F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0444CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0449CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "66A0382C"
+  ["authenticationKey"]=>
+  string(64) "7951309A6C8C4EB822A17B192FD81D9B832AE11F736733D724D1C8E074EA4349"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0449CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "044ECFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8F27FE96"
+  ["authenticationKey"]=>
+  string(64) "8E4D98BD29B80ECBC7EC8977C65997666E9007F3C98F64ABECCCA61664685199"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044ECFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0453CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "31C8039A"
+  ["authenticationKey"]=>
+  string(64) "87AFA323477FE1CF4F9D290C20BDC13563F05F552630177D30F188B6CACD2897"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0453CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0458CFB2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A56F07FA"
+  ["authenticationKey"]=>
+  string(64) "9BD545AA79B02CE02D0C907D00404EA496F79144DE573FCD74A962FCB9B705B9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0458CFB2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04C9D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "740BA941"
+  ["authenticationKey"]=>
+  string(64) "89ACA275E6160D9A16324A90FDD9DC43AD5A82185E056F2CE2F2D12C2377753E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C9D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0460D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AC44F0E4"
+  ["authenticationKey"]=>
+  string(64) "723DCD89FA006E7E829156FF3DACE9C5114D098A98263BC6158E3EB77B70EB6D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0460D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0467D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "225DF3E7"
+  ["authenticationKey"]=>
+  string(64) "BB2FD132B132D74BEB1994EFD458D05E922C56018486425AFEA5C64F9716F135"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0467D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "046ED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "027F1625"
+  ["authenticationKey"]=>
+  string(64) "14940B721428080ED1A56E9F20F11A7E69187CC9B040072DB400CA96996BDB52"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 046ED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0473D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0AA1A599"
+  ["authenticationKey"]=>
+  string(64) "ABD64AD1A0F76B135FDD204FB3FDECBD1591138DC3DF4BB664F9D89F4463C9AB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0473D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0479D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8B235DF4"
+  ["authenticationKey"]=>
+  string(64) "0A49C758CA8F9FB3E54C7B2581FE6191B64BE0D994013EC9933A9049B70A32EB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0479D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "047ED1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2964FA96"
+  ["authenticationKey"]=>
+  string(64) "43F54C4DDEF3D9B42FC7687C8EDD3FD7035CF89189D0678DF2A118B5F524014F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 047ED1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0483D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0C46DD47"
+  ["authenticationKey"]=>
+  string(64) "2B85189A46B8811E13CB96B126A9871AA69EAFF0050FDCD908D871E958EA701C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0483D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0487D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "730B45DC"
+  ["authenticationKey"]=>
+  string(64) "507D6768B1182614FC19103E47F7881FDA108D40A8F906E7FEAAB2405EF9C0E5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0487D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "048CD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1DB35DF3"
+  ["authenticationKey"]=>
+  string(64) "688D108E25FA5979CADB8CDDE9552716344B06497B241ACAC404E79BB98A8054"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 048CD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0491D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "518C2301"
+  ["authenticationKey"]=>
+  string(64) "AE7B3FD674B6E95A3B282499ECCC7C5C2F62184DB31345EC8C285A919740F273"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0491D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0496D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2EC50096"
+  ["authenticationKey"]=>
+  string(64) "896269D1E89FE821D9A39B702FBFB826C9D1A1FE19184EA3EBD7BDD967E15B3B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0496D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04C4D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9B8F2761"
+  ["authenticationKey"]=>
+  string(64) "F64D614DAC1A0849E55D052724AA69C76608A862DE94A5B416C97D77027C130C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C4D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04BFD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F935CBDA"
+  ["authenticationKey"]=>
+  string(64) "FCC646D5448B27165D5FEF485E446A4DD6CAAD950414C7E2DEDE30DA33F0B3CD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BFD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04A5D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A2962E68"
+  ["authenticationKey"]=>
+  string(64) "D66BB70CB5A877363BDFFA54CE878BE9F374E147AA581538F34D6B140E8E670F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A5D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04AAD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5944DACE"
+  ["authenticationKey"]=>
+  string(64) "62B7963BA5642B054791D26B001969DCF0246ACE7512865814D977FF2ABECDBA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AAD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04AED3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1751E8DB"
+  ["authenticationKey"]=>
+  string(64) "EB2B70A70562B546FA4970DB49C50EB1E50287A2EAB9CEB49E16524767EF7D5B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AED3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04B3D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "9D356F5D"
+  ["authenticationKey"]=>
+  string(64) "7E0D7ED6FD41BEC1A5AE90A9B97A75B2E85E73820D682EDE0E7417480817278A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B3D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04B9D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "FC93871F"
+  ["authenticationKey"]=>
+  string(64) "33DB3AD957703D56500066933FD1ED4BC45AA243A35517C24071C98A4C4888E1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B9D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04BED3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D76F63F9"
+  ["authenticationKey"]=>
+  string(64) "59DB2DEE93D1BDC1E68C5BA68ABCA0EA472A3A12DD59EB29A58F298479557D61"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BED3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04C3D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "07D970AB"
+  ["authenticationKey"]=>
+  string(64) "FD571B877DA203DD6C659FCF913CC812AEA36D839687F9CC7274651E611C7543"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C3D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04C8D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BCF68E82"
+  ["authenticationKey"]=>
+  string(64) "8E8CD538AC20E642B9B1924A1B67FB04B7D49CB4EB2BE7CB60D2B7EE0F73D268"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C8D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04D0D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "63FA35CC"
+  ["authenticationKey"]=>
+  string(64) "98D0BED49E0B97AC65923DAC6DC1B9AD7998B5ABF9E404272101DC3A80C7875F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D0D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04D4D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "6B03F68D"
+  ["authenticationKey"]=>
+  string(64) "9AEF44474A8981C67FBE3BF84252C06C9BCCF5D6ACD3D6F2993ECC520EFAF86D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D4D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04D9D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "47DD18AF"
+  ["authenticationKey"]=>
+  string(64) "7D30695F189A18476AA4F9BD72B6A095BD6E5D1E59F1D6A9D34215A2E5CF7ACC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D9D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04BAD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "2D74AF46"
+  ["authenticationKey"]=>
+  string(64) "35EF759429E384F106CBCE3C846C1A2FBE7769F49DC4714DC4ACE940F70DC959"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BAD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04E3D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "009629BF"
+  ["authenticationKey"]=>
+  string(64) "E4666D67A2409BA0F1B890193E61C6C275874F9CF6974157AA58AD99D04083F2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E3D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04E8D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "0197D269"
+  ["authenticationKey"]=>
+  string(64) "88EB64974E2E30B23BD4635BDBD3D73C9C6C27AA9C1AF056ADB989308612EFB7"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E8D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04EDD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "104AE1D4"
+  ["authenticationKey"]=>
+  string(64) "A42FBFF657E1A47B0747511A349F403EC78188C62EEFEB331347CD7FC999AE99"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04EDD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04F2D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "77B168FE"
+  ["authenticationKey"]=>
+  string(64) "E966F862B712609BFDD171313274D1E7DC7C9B68DC51229879E873565628825B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F2D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "04F7D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C259FE39"
+  ["authenticationKey"]=>
+  string(64) "4EB7015D8AD3573B2F6DC6F9293B03185DB6D945A851601BC0375C01CB613C11"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F7D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04FCD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D7E67EB8"
+  ["authenticationKey"]=>
+  string(64) "1C19A23170279B647B7F54ED9FECB4BDCDCAD26B0BEDDD0659C1D3A00202D49F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04FCD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0403D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7108DF77"
+  ["authenticationKey"]=>
+  string(64) "9E88E7E09F1B07C9C55B577CC9A4D9EB9EFE77B0E084FE92A533803267F9B913"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0403D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04B4D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "43D915AB"
+  ["authenticationKey"]=>
+  string(64) "77DD876D6CD0A9129D657ECE5B9B79C37DB908E71B5DF72FA4DEB8CC8CD4B902"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B4D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "040DD4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "15DA16AC"
+  ["authenticationKey"]=>
+  string(64) "BD6A867A4AF2D161FFCCD36094690B8E884F4149528784DE7EA1402B736922EB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 040DD4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0412D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "62F934CB"
+  ["authenticationKey"]=>
+  string(64) "4CD032651BE6337350A87829DA7D5052C0B850F4D471B2A823C974DA93455E4B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0412D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0417D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "2CA49830"
+  ["authenticationKey"]=>
+  string(64) "3EE5F7EB5E2C3C8A2D2C6C708192FA0BD6C174F141665EA397B6183A58D1AEFB"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0417D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "041BD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1852E9DD"
+  ["authenticationKey"]=>
+  string(64) "D9EC2A84096D3CDDCB704B0778E354F8293026D7B10BA687904A489C25C5D7C3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 041BD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0420D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "8C235EF4"
+  ["authenticationKey"]=>
+  string(64) "839D06715A2A3B19595C18B85613C81F1D12AB43115151EC4139AD5EEE2A5F31"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0420D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0425D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "DA16A77F"
+  ["authenticationKey"]=>
+  string(64) "F26F627A482ABC41EC3BE0BFF4A1ADE738ED3CBA845985E27A64B9B2D59F3E7A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0425D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04ABD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "BA518961"
+  ["authenticationKey"]=>
+  string(64) "39B1F18E8018D2F93206261CB4E950EC03F290AFF4BA9084C3EF759C1A565CAA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04ABD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "042FD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "B088205A"
+  ["authenticationKey"]=>
+  string(64) "4A6E094DB6E20E926EEBFE48AE3A9F51A4B6A3258B581FB0527AB40C5EAEBD8E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 042FD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0436D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "67463AD0"
+  ["authenticationKey"]=>
+  string(64) "1480658A2E054D4DC2D8B2B961E6E4B3DDADA0F83405B0AE0B8593AC92B3235C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0436D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043BD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "B49E922A"
+  ["authenticationKey"]=>
+  string(64) "5BAD3DF9F836D7D2B9A66472A633361011525EF6C8E75C0316766921B2C12815"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043BD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0440D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "C2D168A3"
+  ["authenticationKey"]=>
+  string(64) "EE13116F6C374903B485B5C1EA4FF5A7AA764EA836ED15ACA5F2550267C33E5F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0440D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0445D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9D912863"
+  ["authenticationKey"]=>
+  string(64) "13E9E756759EFD172F30460AD4248C21DEE2F9FEA0E1D384FE2581759F35E4FA"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0445D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "044AD5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "91CC63EA"
+  ["authenticationKey"]=>
+  string(64) "EC1EB35B4E4AAAECAC50C5DBD207FCEAEDF429913F89D80E81A179B8E548F89D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044AD5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04A6D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "73A5E077"
+  ["authenticationKey"]=>
+  string(64) "88BA713AEC77DC542F3C51231AD81734F02AAA4A37E11437E181B21A285ADA47"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A6D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0453D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "089FD98C"
+  ["authenticationKey"]=>
+  string(64) "15C370713E6A9FA0F10577BCC38C0E5A691C0377BBB4AB28BBF79A5AD09D57EE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0453D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0458D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "23BAAE45"
+  ["authenticationKey"]=>
+  string(64) "04C7A0CA5945265942324D53E71716BA2186E807A27906075266912F68CC1FCF"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0458D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "045CD6B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4F8920F8"
+  ["authenticationKey"]=>
+  string(64) "25B4DB2C93FAE53C8AC6184BBDC323CF65712CCE89638C40087D5B9EFAAFECC8"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045CD6B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0460D7B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "DD746800"
+  ["authenticationKey"]=>
+  string(64) "3C1F217B3054571B7D85168B5615EAFDEA235F4C8E384BF7C5BA98993ED1775D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0460D7B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "0460D5B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "50E722B8"
+  ["authenticationKey"]=>
+  string(64) "8FCF24A4159294424B78C75F40766D351E1EA3A20FC7AD1EC7E00C0EA1AA1419"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0460D5B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "045CD4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "059C8F27"
+  ["authenticationKey"]=>
+  string(64) "4EDD5E3173F1D18D8C2B23BC9B60713EF6B6ECE80D32C6413B85DC6138200A56"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045CD4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0457D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "853ED4AD"
+  ["authenticationKey"]=>
+  string(64) "5B0EBF510507E8C5496A145CC88D2551581C209CD80C7ACFA964B757690EE42A"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0457D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0452D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "55EBDFFB"
+  ["authenticationKey"]=>
+  string(64) "ED7D63BD0F2927DCF6E93FD72567FB5A7251CFF9A8288A8D0EBD6D7E7FBDA0D3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0452D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#24 (6) {
+  ["tagID"]=>
+  string(14) "04A2D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5CBEB24A"
+  ["authenticationKey"]=>
+  string(64) "E8150B0D6FD6C2F0AAFA3098185A969A6AE1EBA6923FC28CE702954CBDF88DBD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A2D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "049DD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7550E7DA"
+  ["authenticationKey"]=>
+  string(64) "3D36A5D6250B97AFDBE36CCEF02CE549E494352CA3141A2B58E08DEA5B905E3B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 049DD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#12 (6) {
+  ["tagID"]=>
+  string(14) "0443D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "3BD10DA3"
+  ["authenticationKey"]=>
+  string(64) "F7325420CBA75F860E71D3D08178D83C8D5ACE1A985EC02EC31F368D972F0E49"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0443D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0443D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7810039A"
+  ["authenticationKey"]=>
+  string(64) "946A2EC406AD6B837524A6D3FA4DE4EDDA73DEF717C8889F3A221AFFF7D262C0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0443D4B2DC4C81 already exists
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "043ED4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "46DDD168"
+  ["authenticationKey"]=>
+  string(64) "B7BB60B4F0386D85318CF6E40488BBC901F39EF5235632716A6D1E2DB8FB84D3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 043ED4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0439D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "4DE4D86F"
+  ["authenticationKey"]=>
+  string(64) "4E6296A22B458BFF4A64D98A8684DE67C1C9CEEDD1F4C4F7403057DDBD862C0F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0439D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0434D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "059CAB42"
+  ["authenticationKey"]=>
+  string(64) "5318ACECD796FB6773A86CD925089DFCA848D06A039A8F046C4F06A4CD4A5DF6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0434D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "042DD4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9BD56D94"
+  ["authenticationKey"]=>
+  string(64) "EA9810E29E9C13EE4F8048E796A903FC16F8B6BC945D81C93421C257E42AE190"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 042DD4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0428D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "9169013B"
+  ["authenticationKey"]=>
+  string(64) "0E2BE5348EBAE3BE4AD514DB6C1A3230E2D1CF53C78A54ABA5A267C18987F982"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0428D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "0423D4B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "A83F7911"
+  ["authenticationKey"]=>
+  string(64) "375E248F61ACE59D4A87E97E178D54E990EE100E35BA3EE821D77AD904A52FA9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0423D4B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0497D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DC7367FD"
+  ["authenticationKey"]=>
+  string(64) "79BDC2D10C4518B5B59D3F8BE2CF6ED28217E36AB40BEE284E67FE6CE2F5E714"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0497D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "041AD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "E9F85E52"
+  ["authenticationKey"]=>
+  string(64) "5D236F1D481C05781696A143C1C66482679A384226A21F19E1D1CBA88BC6CB59"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 041AD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0415D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "1C57EDE1"
+  ["authenticationKey"]=>
+  string(64) "BB07C41BBBC2D9F60F051744370E05F9D735E09899BEA33760024428739FC234"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0415D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "045BD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "7B8C245E"
+  ["authenticationKey"]=>
+  string(64) "B367477D2A7A64EE743B8BFF65BD49A598F2C443A2672D18D653145316AB175D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 045BD2B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "040BD3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "C96054EB"
+  ["authenticationKey"]=>
+  string(64) "7A49C1AA1368A7F77DC46B7C692B51EE61A96C81A701C8E8009339652130BFB1"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 040BD3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0405D3B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "60F6E178"
+  ["authenticationKey"]=>
+  string(64) "DA39E86A1642FBE0B71C20DD662FDAF7ECDB61101A89A80CCDE58593545D3E9D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0405D3B2DC4C81 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04FDD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "039AD46B"
+  ["authenticationKey"]=>
+  string(64) "8E6B63B8DC2D01814AC32D27ADF8F96602D7EB1606B743D55832A427F22E11DD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04FDD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04F8D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "1DB4A73F"
+  ["authenticationKey"]=>
+  string(64) "46E2593F98398C924C91D042805E4953B9E07317E0C7B74105D18BA2D0389365"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F8D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04F3D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "35CB5D51"
+  ["authenticationKey"]=>
+  string(64) "EF31BB93BE76236EC913A53BE7D45E76602CD649F091A90A3E4F75D97D3A184E"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04F3D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0492D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "DA728183"
+  ["authenticationKey"]=>
+  string(64) "639FC969108FCAC35FCBBC8F98B1341750BE7E1485CAF316ADFFC1B6D20C8414"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0492D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "048DD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8EC9606F"
+  ["authenticationKey"]=>
+  string(64) "AD7B9B955777B566FB24089B362E252C878BA7B74C6DB908C601AE39E2588941"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 048DD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04E4D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F58CC75E"
+  ["authenticationKey"]=>
+  string(64) "D46608A8046BEDC2FA2C6E8FE98F5ACC81691FE65A792368710A1EEB9C98B4DE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04E4D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04DFD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "7FB95145"
+  ["authenticationKey"]=>
+  string(64) "55D592E9A493B14F072C18FED6E41B0C106EBF601AB8EC8B08F737E4918ED092"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04DFD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04DAD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5D974EE5"
+  ["authenticationKey"]=>
+  string(64) "C81CC63AE99DE569EBB49C220A5AFDE2DCFF1C8ECFF17643B27EFA8A75642EA4"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04DAD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04D5D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "316B03F5"
+  ["authenticationKey"]=>
+  string(64) "75940BE3F5E7CE7E54FBE14A53F3AFF352BBB0ADDB8F8A4175BC263A2A626471"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D5D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04D1D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "C2DBCF66"
+  ["authenticationKey"]=>
+  string(64) "22031E6567E1E2600D6C62D05CBA7EF46AD3DB487E224360AC1E8DEEBFE95984"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D1D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04CAD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B54C40D7"
+  ["authenticationKey"]=>
+  string(64) "BD830B3BE17A7DBB039B7A2E70320123F669F3AC927B2D4D09B7EDAE54B146B6"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04CAD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04C5D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A69A31B2"
+  ["authenticationKey"]=>
+  string(64) "1CF9A5BE5158106EBFC3631F6A109B64EB288A61BB09FA4643F07526CA0FC54D"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C5D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04C0D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8D29BFFA"
+  ["authenticationKey"]=>
+  string(64) "71E157F42F1DB5F24604EA37EDD860773355A945960D9700F030F84F26D51460"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C0D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04BBD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "86C15874"
+  ["authenticationKey"]=>
+  string(64) "685F3602EE6D0A9D2659ED70FAFDBAA96A010AEFDF9AAF1DE4C10B18C3EDC20F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BBD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "0488D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "78B34A3E"
+  ["authenticationKey"]=>
+  string(64) "8494A95316C2120B6A667109E51395C8FCAAE4AB4C3FD0442CA98A85B63A5B09"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0488D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04AFD2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "EFE37AB5"
+  ["authenticationKey"]=>
+  string(64) "A10652A3D854FAEA3C2639679393BC0B0D7E2AA3F5081BAACC9E5BC75196B28B"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AFD2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04ABD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "E7DBCA62"
+  ["authenticationKey"]=>
+  string(64) "397E55B0574226CC3BE8FA803277BC21AAC24A6A4C1706785A71A008BCE465A0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04ABD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04A6D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "A23A740C"
+  ["authenticationKey"]=>
+  string(64) "D6521736DC28E7A3F4759737B9A6CDF6555153F291BF1B26A6F0F7C909EF8538"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A6D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04A1D2B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8F271BB1"
+  ["authenticationKey"]=>
+  string(64) "0327826A04BA9360B31AB3F35ADDC5F69245C52170666DCE0465F69851E7D38C"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A1D2B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "0484D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "8FCA61A5"
+  ["authenticationKey"]=>
+  string(64) "622511BC7B0DAA7F13449270C1A6EB9BD4E56D12318F2CD3BD16A8CEA73CDA5F"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0484D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "0474D1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D510A75C"
+  ["authenticationKey"]=>
+  string(64) "4AE9ABAB038A3D572867C8693B354605AA86B97A8ED8A83A28770843824DDBF2"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 0474D1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04AFD3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "4958EF2A"
+  ["authenticationKey"]=>
+  string(64) "4EEA2D3CFD6F5A6AC7DC5334CC2693610DA91F3C1CD84097A1BBABA27236C5D9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AFD3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "046FD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "B4EE865E"
+  ["authenticationKey"]=>
+  string(64) "A48086FD0F16E1C5E647516A31C01CD2780AC87798F9639B6CDE5B71166C79B9"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 046FD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04D4D5B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "573E7810"
+  ["authenticationKey"]=>
+  string(64) "555569EF2474D064355FEE950B89AA8015B6674C43A748379FEFB899049F54FE"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04D4D5B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "046AD1B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "67A1A79B"
+  ["authenticationKey"]=>
+  string(64) "2B877CB0B4057AA6DE5035E9DEE3A2A5A34F352D5FF9E4194DC179E4E65A2BFC"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 046AD1B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04C8D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "80180CA2"
+  ["authenticationKey"]=>
+  string(64) "F86489B52447607D0B60F01C9887B25653D173627FECB1A858B174204EF934D5"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C8D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04C3D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F78F952C"
+  ["authenticationKey"]=>
+  string(64) "E677CF0F34FF2340DCF2CBEC7020FBCABD075677511706B0F3FF5C3C8E0A73D3"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04C3D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04BED4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "11A7E279"
+  ["authenticationKey"]=>
+  string(64) "2B2BE6C81A34F4CD1EF052960FC278991820DC5BD89A77A36C38AC9DB351E706"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04BED4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04B9D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "641DD068"
+  ["authenticationKey"]=>
+  string(64) "01821B9D2F49F8C68E9D6913593EBBE5E209A916DC2A9D0469660C927BB2FAE0"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B9D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "04B4D4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "F0877B13"
+  ["authenticationKey"]=>
+  string(64) "5E92C749CCD62A47E4742EEB38E7C8EE47BA3388965070D27D72E07EA8C39F56"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04B4D4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#19 (6) {
+  ["tagID"]=>
+  string(14) "04AFD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "D0C45B96"
+  ["authenticationKey"]=>
+  string(64) "B1C70CCAB4D70B94AF22C113388FA076A29774AD63FFE743FA200D6905A89BCD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AFD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#15 (6) {
+  ["tagID"]=>
+  string(14) "04AAD4B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "5CF32EC5"
+  ["authenticationKey"]=>
+  string(64) "C0725570D2AB7910F987676B01D52A262D3629582E44E2E37BB6F0593A06A552"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04AAD4B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#17 (6) {
+  ["tagID"]=>
+  string(14) "04A6D3B2DC4C80"
+  ["tagPassword"]=>
+  string(8) "AA89205B"
+  ["authenticationKey"]=>
+  string(64) "7D9914EE9F054E3EEC6AD8EB0A3CB76D2A22E1D2B2BA480DA50950DF68511746"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 04A6D3B2DC4C80 is uploaded successfully!
+object(wineMateThrift\TagInfo)#9 (6) {
+  ["tagID"]=>
+  string(14) "044CD2B2DC4C81"
+  ["tagPassword"]=>
+  string(8) "891BB28A"
+  ["authenticationKey"]=>
+  string(64) "29C557E28B16D2A7D7D69BFB93585122ECFDF59887E8DE7BD195B32AF713F9DD"
+  ["wineID"]=>
+  int(8)
+  ["rollNumber"]=>
+  int(9)
+  ["operatorID"]=>
+  string(2) "ql"
+}
+Tag 044CD2B2DC4C81 is uploaded successfully!
